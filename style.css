@@ -13,7 +13,7 @@ body{
 .row{
 	padding: 15px;
 	text-align: center;
-
+ column-gap: 40px;
 
 }
 .container{
@@ -39,4 +39,10 @@ body{
 .showcase{
 	padding: 10px;
   border: 5px solid gray;
+}
+footer{
+  background-color: #ecdada;
+  font-family: quesha;
+  
+
 }
